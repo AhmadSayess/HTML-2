@@ -1,0 +1,26 @@
+body{
+    background-color: wheat;
+    padding: 5%;
+     
+}
+footer{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+ 
+.img{
+    height: 100px;
+    width: 55%;
+}
+.name{
+    font-size: 25px;
+}
+.pul{
+    font-size: 20px;
+    color:blue;
+}
+
+
+
